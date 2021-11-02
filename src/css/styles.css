@@ -1,0 +1,26 @@
+.container {
+  margin: 0 auto;
+  text-align: center;
+  padding: 100px 0;
+}
+.timer-button {
+  display: block;
+  margin: 0 auto var(--ruler) auto;
+}
+
+.timer-input {
+  margin-right: 0;
+  margin-bottom: var(--ruler);
+}
+
+.field {
+  display: inline-block;
+  padding: var(--ruler);
+  font-size: var(--ruler);
+  text-transform: uppercase;
+}
+
+.value {
+  display: block;
+  font-size: calc(var(--ruler) * 3);
+}
