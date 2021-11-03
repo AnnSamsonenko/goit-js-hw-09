@@ -48,7 +48,6 @@ input {
 }
 
 input {
-  margin-right: 8px;
   box-shadow: inset 2px 2px 5px var(--color-shadow), inset -5px -5px 10px var(--color-white);
   transition: all 0.2s ease-in-out;
   appearance: none;
